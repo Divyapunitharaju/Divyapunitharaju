@@ -4,7 +4,8 @@
 - B.Sc Computer Science graduate   
   
 
--  Ask me about anything related to MERN stack and related technologies  
+-  Ask me about anything related to MERN stack and related technologies
+-  Reach me at ptdivya04@gmail.com
   
 
 Skilled in developing and optimizing projects with a collaborative approach in dynamic team environments. As a fresher, eager to secure an entry-level opportunity in software development to contribute to organizational success.  
@@ -20,10 +21,7 @@ Skilled in developing and optimizing projects with a collaborative approach in d
 <br/>  
 
 
-## Connect with me  
-<a href="https://github.com/Divyapunitharaju " target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
+## Connect with me   
 <a href="https://linkedin.com/in/www.linkedin.com/in/divyapunitharaju" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
