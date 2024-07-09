@@ -63,12 +63,6 @@ Skilled in developing and optimizing projects with a collaborative approach in d
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyapunitharaju&" alt="divyapunitharaju" /></p>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Divyapunitharaju&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 <div align="center"></div>
